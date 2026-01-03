@@ -61,6 +61,7 @@ An online tool that counts words, characters, sentences, and paragraphs instantl
 - https://coursmooc.com
 - https://descrambleword.com
 - https://counter-words.com
+- https://volumesolver.com
 
 ---
 
